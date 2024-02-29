@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/LinkTreeDWB/static/css/main.e3ed808c.css",
-    "main.js": "/LinkTreeDWB/static/js/main.45f59d2e.js",
-    "static/media/whatsapp.png": "/LinkTreeDWB/static/media/whatsapp.aabf3a3e45691badd5ec.png",
-    "static/media/googleMaps.png": "/LinkTreeDWB/static/media/googleMaps.7bf470f76baa02efac23.png",
-    "static/media/instagram.png": "/LinkTreeDWB/static/media/instagram.a3a7519a1733b630f5b7.png",
-    "static/media/youtube.png": "/LinkTreeDWB/static/media/youtube.c213071becc150f4f8e6.png",
-    "index.html": "/LinkTreeDWB/index.html",
-    "main.e3ed808c.css.map": "/LinkTreeDWB/static/css/main.e3ed808c.css.map",
-    "main.45f59d2e.js.map": "/LinkTreeDWB/static/js/main.45f59d2e.js.map"
+    "main.css": "/DWBLinkTree/static/css/main.e3ed808c.css",
+    "main.js": "/DWBLinkTree/static/js/main.1804028e.js",
+    "static/media/whatsapp.png": "/DWBLinkTree/static/media/whatsapp.aabf3a3e45691badd5ec.png",
+    "static/media/googleMaps.png": "/DWBLinkTree/static/media/googleMaps.7bf470f76baa02efac23.png",
+    "static/media/instagram.png": "/DWBLinkTree/static/media/instagram.a3a7519a1733b630f5b7.png",
+    "static/media/youtube.png": "/DWBLinkTree/static/media/youtube.c213071becc150f4f8e6.png",
+    "index.html": "/DWBLinkTree/index.html",
+    "main.e3ed808c.css.map": "/DWBLinkTree/static/css/main.e3ed808c.css.map",
+    "main.1804028e.js.map": "/DWBLinkTree/static/js/main.1804028e.js.map"
   },
   "entrypoints": [
     "static/css/main.e3ed808c.css",
-    "static/js/main.45f59d2e.js"
+    "static/js/main.1804028e.js"
   ]
 }
