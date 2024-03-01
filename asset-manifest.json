@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/DWBLinkTree/static/css/main.e3ed808c.css",
-    "main.js": "/DWBLinkTree/static/js/main.1804028e.js",
-    "static/media/whatsapp.png": "/DWBLinkTree/static/media/whatsapp.aabf3a3e45691badd5ec.png",
-    "static/media/googleMaps.png": "/DWBLinkTree/static/media/googleMaps.7bf470f76baa02efac23.png",
-    "static/media/instagram.png": "/DWBLinkTree/static/media/instagram.a3a7519a1733b630f5b7.png",
-    "static/media/youtube.png": "/DWBLinkTree/static/media/youtube.c213071becc150f4f8e6.png",
+    "main.css": "/DWBLinkTree/static/css/main.acb7478f.css",
+    "main.js": "/DWBLinkTree/static/js/main.b2451ba2.js",
+    "static/media/WA_Logo.svg": "/DWBLinkTree/static/media/WA_Logo.f2883296e5f8c40374f487bfc522416c.svg",
+    "static/media/Drop_Pin.svg": "/DWBLinkTree/static/media/Drop_Pin.77f9f239319a984992c2d85a00c204d6.svg",
+    "static/media/FB_Logo.svg": "/DWBLinkTree/static/media/FB_Logo.bbe12530e13760a2867b1fb4c7c72c53.svg",
+    "static/media/YT_Logo.svg": "/DWBLinkTree/static/media/YT_Logo.dd044bf8744fd318a9456b1fafa2e20b.svg",
     "index.html": "/DWBLinkTree/index.html",
-    "main.e3ed808c.css.map": "/DWBLinkTree/static/css/main.e3ed808c.css.map",
-    "main.1804028e.js.map": "/DWBLinkTree/static/js/main.1804028e.js.map"
+    "main.acb7478f.css.map": "/DWBLinkTree/static/css/main.acb7478f.css.map",
+    "main.b2451ba2.js.map": "/DWBLinkTree/static/js/main.b2451ba2.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3ed808c.css",
-    "static/js/main.1804028e.js"
+    "static/css/main.acb7478f.css",
+    "static/js/main.b2451ba2.js"
   ]
 }
