@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/DWBLinkTree/static/css/main.acb7478f.css",
-    "main.js": "/DWBLinkTree/static/js/main.b2451ba2.js",
+    "main.css": "/DWBLinkTree/static/css/main.9b00b0e3.css",
+    "main.js": "/DWBLinkTree/static/js/main.27db80b4.js",
     "static/media/WA_Logo.svg": "/DWBLinkTree/static/media/WA_Logo.f2883296e5f8c40374f487bfc522416c.svg",
     "static/media/Drop_Pin.svg": "/DWBLinkTree/static/media/Drop_Pin.77f9f239319a984992c2d85a00c204d6.svg",
     "static/media/FB_Logo.svg": "/DWBLinkTree/static/media/FB_Logo.bbe12530e13760a2867b1fb4c7c72c53.svg",
     "static/media/YT_Logo.svg": "/DWBLinkTree/static/media/YT_Logo.dd044bf8744fd318a9456b1fafa2e20b.svg",
     "index.html": "/DWBLinkTree/index.html",
-    "main.acb7478f.css.map": "/DWBLinkTree/static/css/main.acb7478f.css.map",
-    "main.b2451ba2.js.map": "/DWBLinkTree/static/js/main.b2451ba2.js.map"
+    "main.9b00b0e3.css.map": "/DWBLinkTree/static/css/main.9b00b0e3.css.map",
+    "main.27db80b4.js.map": "/DWBLinkTree/static/js/main.27db80b4.js.map"
   },
   "entrypoints": [
-    "static/css/main.acb7478f.css",
-    "static/js/main.b2451ba2.js"
+    "static/css/main.9b00b0e3.css",
+    "static/js/main.27db80b4.js"
   ]
 }
