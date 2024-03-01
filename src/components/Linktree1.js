@@ -57,7 +57,7 @@ function Linktree() {
             </div>
           </a>
 
-          <p className='ml-8 mb-2 text-xl'><strong>Address: </strong>A-2217 Greenfield Colony, Faridabad</p>
+          <p className='ml-2 mb-2 text-xl'><strong>Address: </strong>A-2217 Greenfield Colony, Faridabad</p>
         </div>
 
       {/* Middle Section: Social Media Links */}
@@ -69,7 +69,7 @@ function Linktree() {
             {/* <p className='bg-white text-indigo-950 p-1 rounded-md text-sm'>Tap To Open</p> */}
           </div>
         </a>
-        <a href="#" className='flex items-center  pt-2 bg-white border-1 border-slate-200 w-[95%] h-24 text-indigo-900 font-semibold py-2 px-4 rounded-2xl mb-4 shadow-md'>
+        <a href="https://www.facebook.com/profile.php?id=61555248690691" className='flex items-center  pt-2 bg-white border-1 border-slate-200 w-[95%] h-24 text-indigo-900 font-semibold py-2 px-4 rounded-2xl mb-4 shadow-md'>
           <img src={facebook} alt="Youtube Logo" className="w-14 h-14 mr-3" />
           <div className='flex flex-col items-center'>
             <p className='pb-1'>Connect with us on Facebook</p>
